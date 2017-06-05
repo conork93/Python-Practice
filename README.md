@@ -1,2 +1,2 @@
 # Python-Practice
-python code from "daily" practice
+python code from my "daily" practice

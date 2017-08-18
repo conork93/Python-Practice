@@ -12,15 +12,15 @@ print("BMI: ")+("%.1f" % bmi)
 
 
 #calculate bmi with pounds and inches
-def mericaUnits(height, weight){
+def mericaUnits(height, weight):
   return (weight/(height * height)) * 703
-}
 
-def feetToInches(feet){
+
+def feetToInches(feet):
   return feet * 12
-}
+
 
 #calculate bmi with meters and kg
-def restOfTheWorld(height, weight){
+def restOfTheWorld(height, weight):
   return (weight)/(height * height)
-}
+
